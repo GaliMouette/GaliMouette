@@ -3,13 +3,13 @@
 ## A little bit about me :
 - :student: Studying computer science at EPITECH
 - :briefcase: Worked at Witekio & INRIA
+
 More on my [website](https://galimouette.github.io/)
 
-
-Optimization, performance, and programing languages enthusiast.
-I am interested by kernels, boot-loaders, and low level programming in general.
-I also share a great interest in compilers.
-I am trying to understand how to build unbreakable things.
+Optimization, performance, and programing languages enthusiast.<br/>
+I am interested by kernels, boot-loaders, and low level programming in general.<br/>
+I also share a great interest in compilers.<br/>
+I am trying to understand how to build unbreakable things.<br/>
 
 ## Some projects I am currently interested in :
 * [llvm-project](https://github.com/llvm/llvm-project)
