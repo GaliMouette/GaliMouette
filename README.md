@@ -1,21 +1,25 @@
-# Hello There :wave:
+# Hello there, I am Alexis - aka GaliMouette :wave:
 
-Currently studying computer science at EPITECH and working part time at ENS/INRIA.
+## A little bit about me :
+- :student: Studying computer science at EPITECH
+- :briefcase: Worked at Witekio & INRIA
+More on my [website](https://galimouette.github.io/)
 
-Optimization and programing languages enthusiast.
-Interests in low level programing, kernels, bootloaders and compilers.
-Trying to understand how to build unbreakable things.
 
-Projects I love:
+Optimization, performance, and programing languages enthusiast.
+I am interested by kernels, boot-loaders, and low level programming in general.
+I also share a great interest in compilers.
+I am trying to understand how to build unbreakable things.
+
+## Some projects I am currently interested in :
 * [llvm-project](https://github.com/llvm/llvm-project)
 * [GCC](https://github.com/gcc-mirror/gcc)
 * [Z3](https://github.com/Z3Prover/z3)
 * [Coq](https://github.com/coq/coq)
 * [SWI-Prolog](https://github.com/SWI-Prolog/swipl-devel)
 
-[![GaliMouette's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaliMouette&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Contact me !
-
+## Contact me !
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alexis-carre/)
 
+## Some stats
+[![GaliMouette's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaliMouette&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
